@@ -5,4 +5,6 @@
     <string name="lower_button">Lower</string>
     <string name="higher_button">Higher</string>
     <string name="last_throw_text">Last Throw: %d</string>
+    <string name="victory_text">VICTORY</string>
+    <string name="lose_text">YOU LOSE</string>
 </resources>
